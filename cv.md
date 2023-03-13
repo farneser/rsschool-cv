@@ -10,7 +10,7 @@
 
 ---
 
-### Little About Myself
+### Little about myself
 
 I have been studying for the specialty "information technology software” for the profession “programmer technician” for three years, wanna to be a backend develeper on aspnet. Have little experience with python, java, c++
 
