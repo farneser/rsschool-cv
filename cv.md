@@ -5,8 +5,9 @@
 
 ### Contact information
 
-**E-mail:** farneser1@gmail.com<br>
-**Telegram:** [@farneser](https://t.me/farneser)<br>
+**E-mail:** farneser1@gmail.com
+
+**Telegram:** [@farneser](https://t.me/farneser)
 
 ---
 
