@@ -1,2 +1,2 @@
 # rsschool-cv
-cv for rsschool
+https://farneser.github.io/rsschool-cv/cv
